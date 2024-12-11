@@ -35,7 +35,7 @@ function Contact() {
  </div>
  </div>
       <div className='con'>
-       <div className='www'></div>
+       {/* <div className='www'></div> */}
       <div>
         <h2>
             For more information/pending transfer, contact our customer service:

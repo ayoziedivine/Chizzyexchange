@@ -15,10 +15,9 @@ body{
     border-radius: 25px;
     margin: auto;
     display: block;
-    margin-top: 14%;
     align-content: center;
 }
-body{
+.body{
     background-image: url(../../assets/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -89,7 +88,7 @@ body{
     align-items: center;
     background-color: antiquewhite;
     height: 70px;
-    width: auto;
+    width: 100%;
 }
 .list{
     display: flex;
@@ -115,7 +114,7 @@ body{
     width: 25px;
 }
 
-.dropdown-content {
+/* .dropdown-content {
     display: none;
     position: absolute;
     background-color: antiquewhite;
@@ -142,4 +141,4 @@ body{
 }
 .dropdown{
     margin-right: 30px;
-}
+} */

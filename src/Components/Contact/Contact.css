@@ -127,7 +127,6 @@ h2{
 .list{
     display: flex;
     list-style: none;
-    margin-top: 10px;
 }
 
  a{
@@ -148,7 +147,7 @@ h2{
     width: 25px;
 }
 
-.dropdown-content {
+/* .dropdown-content {
     display: none;
     position: absolute;
     background-color: antiquewhite;
@@ -175,4 +174,4 @@ h2{
 }
 .dropdown{
     margin-right: 30px;
-}
+} */
