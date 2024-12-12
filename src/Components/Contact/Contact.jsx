@@ -12,7 +12,7 @@ import home3 from '../../assets/home3.png'
 function Contact() {
   return (
     <div>
-            <div class="nav">
+<div class="navs">
 
 <div className='img'>
   <Link to='/Chizzyexchange'>
@@ -35,8 +35,6 @@ function Contact() {
  </div>
  </div>
       <div className='con'>
-       {/* <div className='www'></div> */}
-      <div>
         <h2>
             For more information/pending transfer, contact our customer service:
         </h2>
@@ -44,7 +42,6 @@ function Contact() {
             <a href="tel:+2348067614968" className='aaa'><img src={phone1} alt="" /><h3>08067614968</h3></a> 
             <a href="mailto:ayoziewisdom2@gmail.com" className='aa'><img src={gmail} alt="" /><h4>ayoziewisdom2@gmail.com</h4></a>
             <a href="https://wa.link/94xvpw" className='a'><img src={whatsapp} alt="" /><h4>Whatsapp</h4></a>
-         </div>
       </div>
 </div>
       <div class="footers">

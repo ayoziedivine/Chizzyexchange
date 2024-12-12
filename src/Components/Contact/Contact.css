@@ -6,6 +6,15 @@
     color: white;
     width: 100%;
 }
+@media screen and (max-width: 360){
+    .nav{
+        width: 320px;
+    }
+    .con{
+        width: 320px;
+    }
+    
+}
 body{
     margin: 0;
     padding: 0;
@@ -73,12 +82,7 @@ h2{
     align-self: center;
     width: 100px;
 }
-.a img{
-    margin-left: -50px;
-}
-.aaa{
-    margin-left: -50px;
-}
+
 .footers{
     background-color: bisque;
     color: black;
@@ -117,7 +121,7 @@ h2{
     padding: 0;
     width: 100%;
 }
-.nav{
+.navs{
     display: flex;
     align-items: center;
     background-color: antiquewhite;
